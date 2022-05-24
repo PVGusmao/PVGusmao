@@ -1,4 +1,4 @@
-<div style={display: flex}>
+<div {display: "flex"}>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PVGusmao&show_icons=true&theme=tokyonight)](https://github.com/PVGusmao/github-readme-stats)
 
