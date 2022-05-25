@@ -6,4 +6,4 @@
 
 </div>
 
-<a href="./curriculo/pvmg.pdf" target="_blank">clicando aqui</a> 
+<a href="./curriculo/pvmg.pdf" target="_blank">Currículo</a> 
